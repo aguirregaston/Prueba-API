@@ -1,0 +1,4 @@
+{
+  "posts": [ { "id": 1, "title": "Hola" } ],
+  "comments": [ { "id": 1, "body": "test" } ]
+}
